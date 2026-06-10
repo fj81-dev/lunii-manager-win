@@ -1,14 +1,14 @@
 # Lunii Manager
 
-[Download Lunii Manager 1.7.0 for Windows](https://github.com/fj81-dev/lunii-manager-win/releases/download/1.7.0/LuniiManager-Setup-1.7.0.exe) or the [standalone](https://github.com/fj81-dev/lunii-manager-win/releases/download/1.7.0/LuniiManager-1.7.0-win-x64.zip) version
+[Download Lunii Manager 1.7.1 for Windows](https://github.com/fj81-dev/lunii-manager-win/releases/download/1.7.1/LuniiManager-Setup-1.7.1.exe) or the [standalone](https://github.com/fj81-dev/lunii-manager-win/releases/download/1.7.1/LuniiManager-1.7.1-win-x64.zip) version
 
 A native Windows app to manage stories on your **Lunii v1 (upgraded to FW2), v2, v3 or FLAM** storyteller, without going through Luniistore.
+
+> 🍎 A [**macOS**](https://github.com/fj81-dev/lunii-manager) version is also available.
 
 Local library, drag-and-drop, built-in player, official Lunii account sign-in, firmware updates — all in one self-contained app that adapts to the way you actually organize your stories.
 
 <p align="center"><img src="screen.webp" alt="Overview" /></p>
-
-> 🍎 A **macOS** version is also available — see the [main page](https://github.com/fj81-dev/lunii-manager).
 
 ---
 
